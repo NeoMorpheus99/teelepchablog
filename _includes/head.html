@@ -67,7 +67,7 @@
   <!-- Theme style -->
   <link
     rel="stylesheet"
-    href="{{ site.baseurl }}/assets/css/{{ site.theme }}.css"
+    href="{{ '/assets/css/:THEME.css' | replace: ':THEME', site.theme | relative_url }}"
   />
 
   <!-- Web Font -->
