@@ -1,3 +1,5 @@
 @use 'vendors/bootstrap';
 @use 'main';
 @use 'node_modules/bootstrap/scss/bootstrap';
+@use 'node_modules/bootstrap/scss/bootstrap' as bootstrap;
+@use '../node_modules/bootstrap/scss/bootstrap' as bootstrap;
