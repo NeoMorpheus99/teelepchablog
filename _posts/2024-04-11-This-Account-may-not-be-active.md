@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: ../assets/img/dp/tome.jpg
+  path: /assets/img/dp/tome.jpg
   alt: 
 ---
 <!-- wp:paragraph -->

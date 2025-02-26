@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: ../assets/img/dp/books.jpg
+  path: /assets/img/dp/books.jpg
   alt: A Collection of Some of my books
 ---
 <!-- wp:paragraph -->
