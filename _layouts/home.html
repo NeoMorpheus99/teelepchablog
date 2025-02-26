@@ -14,7 +14,7 @@ item.hidden != true' %} {% assign posts = '' | split: '' %}
 all_pinned.size > visible_start %} {% if all_pinned.size > visible_end %} {%
 assign pinned_size = paginator.per_page %} {% else %} {% assign pinned_size =
 all_pinned.size | minus: visible_start %} {% endif %} {% for i in
-(visible_start..visible_end) limit: pinned_size %} {% assign posts = posts |
+(visible_start..all_pinned.size) limit: pinned_size %} {% assign posts = posts |
 push: all_pinned[i] %} {% endfor %} {% else %} {% assign pinned_size = 0 %} {%
 endif %}
 
