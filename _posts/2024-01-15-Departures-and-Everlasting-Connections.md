@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: ../assets/img/dp/highway.jpg
+  path: assets/img/dp/highway.jpg
   alt: Thimphu Babesa Highway
 ---
 <!-- wp:paragraph -->

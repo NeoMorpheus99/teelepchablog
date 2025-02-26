@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: ../assets/img/dp/bdayking/kingoy.jpg
+  path: assets/img/dp/bdayking/kingoy.jpg
   alt: 
 ---
 <!-- wp:quote -->
@@ -28,14 +28,14 @@ image:
 
 <!-- wp:paragraph -->
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/dp/bdayking/f998c0d3-a789-4c22-92be-18e848491533.webp" alt="Main Traffice in thimphu" /></figure>{: width="auto" height="auto" .w-50 .left} 
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="assets/img/dp/bdayking/f998c0d3-a789-4c22-92be-18e848491533.webp" alt="Main Traffice in thimphu" /></figure>{: width="auto" height="auto" .w-50 .left} 
 <p>The streets lay deserted, consequently<em> </em>businesses suffered, and many struggled to make ends meet. It was during this time that I witnessed an act of selflessness that left a lasting impression on me. Our King initiated aid efforts for affected citizens, even auctioning shares held in the name of Sungchob Fund and Kidu Funds to replenish the reserve for the National Resilience Fund. This ensured continued support for income and interest payments under the Druk Gyalpo’s Relief Kidu.</p>
 <!-- /wp:paragraph -->
 
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/dp/bdayking/907a8663s.jpg" alt="An Army feeding a stray Dog" /></figure>{: width="auto" height="auto" .w-50 .right} 
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="assets/img/dp/bdayking/907a8663s.jpg" alt="An Army feeding a stray Dog" /></figure>{: width="auto" height="auto" .w-50 .right} 
 
 <!-- wp:paragraph -->
 <p>Not only that, following His Majesty The King’s concerns about stray dogs starving during the lockdown, a mass feeding of the dogs was also initiated. He tirelessly visited every part of the country, sometimes traversing on foot where roads were impassable, and always humbly adhering to quarantine rules after visiting red zones. One poignant photo, released later, depicted our majestic King looking weary yet filled with concern for his people.</p>
@@ -60,7 +60,7 @@ image:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":544,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/assets/img/dp/bdayking/16_bhutan_king_jigme_04_04_delhi.jpg" alt="" class="wp-image-544" /><figcaption class="wp-element-caption">His Majesty Druk Gyelpo Jigme Khesar Namgyel Wangchuck</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="assets/img/dp/bdayking/16_bhutan_king_jigme_04_04_delhi.jpg" alt="" class="wp-image-544" /><figcaption class="wp-element-caption">His Majesty Druk Gyelpo Jigme Khesar Namgyel Wangchuck</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->

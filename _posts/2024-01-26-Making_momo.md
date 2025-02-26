@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: ../assets/img/dp/momo.jpeg
+  path: assets/img/dp/momo.jpeg
   alt: A Collection of Some of my books
 ---
 

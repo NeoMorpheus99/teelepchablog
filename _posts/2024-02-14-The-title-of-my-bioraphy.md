@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: ../assets/img/dp/open-book.jpeg
+  path: assets/img/dp/open-book.jpeg
   alt: 
 ---
 

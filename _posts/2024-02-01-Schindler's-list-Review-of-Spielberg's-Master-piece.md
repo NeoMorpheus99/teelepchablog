@@ -10,7 +10,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/dp/sl/poster.jpg
+  path: assets/img/dp/sl/poster.jpg
   alt: Movie Poster
 ---
 
