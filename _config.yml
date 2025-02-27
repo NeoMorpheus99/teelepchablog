@@ -16,7 +16,7 @@ timezone: Asia/Thimphu
 
 title: TeeLepcha Blogs # the main title
 
-tagline: A journey into the mind of Norbu # it will display as the subtitle
+tagline: What I can express in words, I write it in words # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
