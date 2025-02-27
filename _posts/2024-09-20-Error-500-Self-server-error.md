@@ -2,7 +2,7 @@
 title: Error 500- Self server Error
 description: writing Prompt "What could you do more of?"
 author: norbu
-date: 2024-09-12 17:53:06 +0000
+date: 2024-09-20 17:53:06 +0000
 categories: [Literature, Abstract]
 tags: [Thought Experiment, ethical choice]
 pin: true
