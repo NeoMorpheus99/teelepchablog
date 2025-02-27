@@ -1,6 +1,6 @@
 ---
 title: A little reader's journey
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+description: 
 author: norbu
 date: 2024-01-03 17:42:32 +0000
 categories: [Journal, Random Thoughts]
@@ -10,7 +10,7 @@ math: true
 mermaid: true
 image:
   path: assets/img/dp/books.jpg
-  alt: A Collection of Some of my books
+  alt: 
 ---
 <!-- wp:paragraph -->
 <p>I spent the day cleaning and fixing up my old books, giving them the love they've earned over the years. As I gazed at the stacks of books, memories flooded back, reminding me of my deep-rooted love for reading that goes way back, as far as I can remember.&nbsp;</p>
