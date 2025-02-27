@@ -1,6 +1,6 @@
 ---
 title: This Account May not be active
-description: Writing Prompt "Write a letter to your 100-year-old self."
+description: 
 author: norbu
 date: 2024-04-11 19:38:46 +0000
 categories: [Literature, Poetry]
@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: assets/img/dp/tome.jpg
+  path: assets/img/dp/amnba/1.jpg
   alt: 
 ---
 <!-- wp:paragraph -->
@@ -21,7 +21,7 @@ image:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":575,"width":"898px","aspectRatio":"4/3","scale":"contain","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://teelepcha5.wordpress.com/wp-content/uploads/2024/04/screenshot_20240412-002627_instagram.jpg" alt="" class="wp-image-575" style="aspect-ratio:4/3;object-fit:contain;width:898px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/dp/amnba/2.jpg" alt="" class="wp-image-575" style="aspect-ratio:4/3;object-fit:contain;width:898px" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -37,5 +37,5 @@ image:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":579,"sizeSlug":"medium","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-medium"><img src="https://teelepcha5.wordpress.com/wp-content/uploads/2024/04/img_20240412_001413_577.jpg?w=300" alt="" class="wp-image-579" /></figure>
+<figure class="wp-block-image aligncenter size-medium"><img src="/assets/img/dp/amnba/3.jpg" alt="" class="wp-image-579" /></figure>
 <!-- /wp:image -->
