@@ -36,3 +36,5 @@ Due to this I have done several freelance work in the field of graphics designin
 5. Da vinci Resolve
 6. Excel
 {: .prompt-info }
+
+Feel free to get in touch with me, let's connect.  
