@@ -1,6 +1,6 @@
 ---
 title: Unsolicited Dilemma "#1"
-description: writing Prompt "Share a lesson you wish you had learned earlier in life."
+description: 
 author: norbu
 date: 2024-09-12 17:53:06 +0000
 categories: [Literature, Abstract]
